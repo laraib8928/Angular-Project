@@ -1,0 +1,15 @@
+
+.mat-card{
+    width: 60%;
+    margin: auto;
+    
+}
+.mat-card h1{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.mat-card button{
+    margin: 5px;
+}
